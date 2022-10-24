@@ -31,3 +31,4 @@ letters = ["a", "b", "c", "d", "e"]
 for i in letters:
     if i in tup_3:
         print(i, "esta en la tupla 3")
+
